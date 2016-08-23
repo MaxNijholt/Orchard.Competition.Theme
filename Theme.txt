@@ -1,5 +1,5 @@
-Name: Foundation
-Author: Sjoerd van der Meer
+Name: Foundation1.1
+Author: Sjoerd van der Meer, Max Nijholt
 Website: http://met.desjoerd.com
 Description: The most advanced responsive front-end framework in the world.
 Version: 1.0
